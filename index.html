@@ -1,5 +1,43 @@
-My First GitHub Site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TTP</title>
+    <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header-bar">
+      <nav class="nav-links">
+        <a href="brands.html" class="nav-item">BRANDS</a>
+        <a href="magazine.html" class="nav-item">MAGAZINE</a>
+      </nav>
+    
+      <div class="search-container">
+        <input type="text" id="searchInput" class="search-bar" placeholder="Search...">
+      </div>
+    </header>
 
+    <main class="page-container">
 
-    Hello, World!
-    Welcome to my HTML page hosted on GitHub.
+        <section class="card-group">
+            <h2 class="group-title">
+              <a href="https://ttpipor.tumblr.com/tagged/#" target="_blank" class="group-link">EVENTNAME</a>
+            </h2>
+            <div class="grid-container">
+              <a href="https://ttpipor.tumblr.com/tagged/#" target="_top" class="card-item" data-name="EVENTNAME">
+                  <div class="card" style="background-image: url('');"></div>
+              </a>
+            </div>
+        </section>
+        
+        
+    </main>
+    <script src="script.js"></script>
+    <div id="imageModal" class="modal">
+      <span class="close-btn">&times;</span>
+      <img class="modal-content" id="fullImage" alt="Full view">
+    </div>
+</body>
+</html>
