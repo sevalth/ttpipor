@@ -1,0 +1,173 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    -webkit-font-smoothing: antialiased;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center; /* Centers the search bar horizontally */
+    width: 100%;
+}
+
+.search-bar {
+    width: 350px;
+    padding: 12px 14px;
+    font-size: 15px;
+    font-family: inherit;
+    border: 2px solid #000000; 
+    outline: none;
+    background: transparent;
+    box-sizing: border-box;
+    letter-spacing: 0.5px;
+}
+
+.grid-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows cards to wrap to a 2nd row if they exceed width */
+  gap: 6px;       /* Gap between individual cards */
+}
+
+.card-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    transition: transform 0.2s ease;
+}
+
+.card-item:hover {
+    transform: translateY(-4px); 
+}
+
+.card {
+  width: 110px;          /* Adjust card width as needed */
+  height: 170px;         /* Adjust card height as needed */
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  border: 2px solid #000;
+}
+
+.pola {
+  width: 170px;          /* Adjust card width as needed */
+  height: 130px;         /* Adjust card height as needed */
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  border: 2px solid #000;
+}
+
+.card-text {
+    margin-top: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    word-break: break-word;
+    line-height: 1.4;
+}
+.card-group {
+  margin-bottom: 40px;
+}
+
+/* Group Header Style */
+.group-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 12px;
+  border-bottom: 2px solid #333;
+  padding-bottom: 4px;
+}
+
+.group-link {
+  color: inherit;         /* Uses the same color as the h2 */
+  text-decoration: none;  /* Removes the default underline */
+}
+
+/* Optional: Add hover feedback */
+.group-link:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+/* Container holding all groups side-by-side */
+.horizontal-scroll-container {
+  display: flex; /* Enables left-to-right flow */
+  flex-direction: row;
+  gap: 32px; /* Space between each section */
+  overflow-x: auto; /* Enables horizontal scrolling if content overflows */
+  padding-bottom: 16px; /* Space for scrollbar */
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.85); /* Dark transparent background */
+  align-items: center;
+  justify-content: center;
+}
+
+/* Full resolution image styling */
+.modal-content {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  object-fit: contain;
+}
+
+/* Close (X) button */
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+}
+
+.close-btn:hover {
+  color: #bbb;
+}
+
+/* Container stacking links on top and search bar below */
+.header-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+/* Top Row: Links aligned to the left */
+.nav-links {
+  display: flex;
+  gap: 24px;          /* Space between BRANDS and MAGAZINE */
+  margin-bottom: 16px; /* Spacing between the links and search bar */
+}
+
+.nav-item {
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #000;
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  text-decoration: underline;
+}
