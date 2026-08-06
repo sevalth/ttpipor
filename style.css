@@ -56,6 +56,15 @@ body {
   border: 2px solid #000;
 }
 
+.card-horizontal {
+  width: 170px;          /* Adjust card width as needed */
+  height: 110px;         /* Adjust card height as needed */
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  border: 2px solid #000;
+}
+
 .pola {
   width: 170px;          /* Adjust card width as needed */
   height: 130px;         /* Adjust card height as needed */
@@ -66,15 +75,14 @@ body {
 }
 
 .card-text {
-    margin-top: 12px;
-    font-size: 14px;
-    font-weight: 500;
+    margin-top: 0px;
+    font-size: 12px;
     text-align: center;
     word-break: break-word;
     line-height: 1.4;
 }
 .card-group {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 /* Group Header Style */
