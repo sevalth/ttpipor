@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TTP</title>
+    <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header class="header-bar">    
+      <div class="search-container">
+        <input type="text" id="searchInput" class="search-bar" placeholder="Search...">
+      </div>
+    </header>
+
+    <main class="page-container">
+
+        <section class="card-group">
+            <h2 class="group-title">
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_blank" class="group-link">DMD Line Up 2026 - The Rise Continues</a>
+            </h2>
+            Random Photocards
+            <div class="grid-container">
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('');"></div>
+              </a>
+            </div>
+            
+            Random Selfie Photocards
+            <div class="grid-container">
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/aac6fa5fb6371c4a71f5093acab39c6a/292103b60e0a45ad-aa/s400x600/caa2e0ff7540f002ba3bffef8f1dbc415e8ab9e7.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/34e113ed5ea25ec0705f853cedb8bf1a/292103b60e0a45ad-73/s400x600/13a769dfd8e7b426a6e5d5a71f7d11c9c40ddc00.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/e7f43178ae21dff95efb0a675575047f/292103b60e0a45ad-69/s400x600/653d5aca76e4b81e379dab3a1d963aacbc6b905c.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/6cb35768e27043d2a0cd87c5e5fe18a4/292103b60e0a45ad-b2/s400x600/d8dac990a6bfc58843469a0571e3f905a10c8d3c.jpg');"></div>
+              </a>
+            </div>
+            <!-- selfie teetee -->
+            <div class="grid-container" style="margin-top:5px">
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/39ad996fd9dcb4a254d38aed4effc7ff/42b43fc0295c6cdb-f9/s400x600/a5e705dacebd80f6e11d750f636442bdfd8eb60c.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/59cd78ef3afd754c84790ff162e67557/42b43fc0295c6cdb-fa/s400x600/4431b29f70b026d8f753fc50fce97c255648954b.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/e6752f15654d4c21199b2dd61ff96c2e/42b43fc0295c6cdb-c3/s400x600/a0eb2d586d124594643fd404d9e48736aeb735d3.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/b46fc58baccdeb30664497f2ba2135d6/42b43fc0295c6cdb-a4/s400x600/559785775b36694e1aaad323a29782a3d4b33f57.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/e74fff8fd5f38135371602d3ed526be6/42b43fc0295c6cdb-09/s400x600/3cd88d30cd3ea8c89e07da54c3f77ccc37f3936a.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/d39cf84654b5016c11066ee995b2566d/42b43fc0295c6cdb-ae/s400x600/7ecc3d21ae50dcd5baec6059867c7f8b65f7f8e0.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/36c9aa89cd4c6936e4f5854a4c67eff5/42b43fc0295c6cdb-78/s400x600/b206ac50efc09c75b19196f895e2cb036d606d7b.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/2ae6f3639c727177e7364357be6910b8/42b43fc0295c6cdb-57/s400x600/9cbdf5310b9abb19217b40de486d9db059e9dfcf.jpg');"></div>
+              </a>
+            </div>
+            <!-- selfie por -->
+            <div class="grid-container" style="margin-top:5px">
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/05122ef7841105f538939bd9431ea876/0a2162f8ca9b7193-ea/s400x600/89e861d7daff9e2e8c04c701c1fb67c8b3c48257.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/f8850fd7eea41a965a446fd679a0caee/0a2162f8ca9b7193-8c/s400x600/607b0d8cef156dc8acae1ca6e1236511aa3d7702.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/c68110bff40b5aa76f626bea1147958b/0a2162f8ca9b7193-3c/s400x600/c7a8cd24dc8ddf89d2cf1b583819c071131045e3.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/363394e869900f82b5554fc6281ca323/0a2162f8ca9b7193-50/s400x600/25de0677fbfbd10ddbbe3377ad83ede544cdf864.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/ca221d69e6321be8e3450db4c14d880b/0a2162f8ca9b7193-e7/s400x600/ab14fd1059e9b643828e11f1f28f09a46315107d.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/19a34d0f44d5cb3fdf71c537b01affdf/0a2162f8ca9b7193-6c/s400x600/6eb6eb889d736d09ab10bcb92c73cceb7ca66b1f.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('https://64.media.tumblr.com/baf055d61663d316befe3e60782bb7a7/0a2162f8ca9b7193-77/s400x600/36cc95d81df73a0b3b35ef3b7d3903611a84d24d.jpg');"></div>
+              </a>
+              <a href="https://ttpipor.tumblr.com/tagged/fb lineup" target="_top" class="card-item" data-name="DMD Line Up 2026 - The Rise Continues">
+                  <div class="card" style="background-image: url('');"></div>
+              </a>
+            </div>
+        </section>
+        
+    </main>
+    <script src="./script.js"></script>
+    <div id="imageModal" class="modal">
+      <span class="close-btn">&times;</span>
+      <img class="modal-content" id="fullImage" alt="Full view">
+    </div>
+</body>
+</html>
